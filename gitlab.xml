@@ -1,0 +1,13 @@
+<application>
+  <component name="GitLabAccounts"><![CDATA[{
+  "accounts": [
+    {
+      "id": "8104ecea-50e2-4f3a-a612-91e5065fdd7f",
+      "name": "tan.nguyen",
+      "server": {
+        "uri": "https://git.topdev.asia"
+      }
+    }
+  ]
+}]]></component>
+</application>

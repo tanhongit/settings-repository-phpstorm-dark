@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping pattern=".env-dev" type=".env file" />
-      <mapping pattern="td" type="AUTO_DETECTED" />
+      <mapping pattern="td" type="Shell Script" />
       <mapping pattern="notifications" type="AUTO_DETECTED" />
       <mapping ext="ogg" type="AUTO_DETECTED" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />

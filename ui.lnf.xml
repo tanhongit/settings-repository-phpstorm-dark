@@ -1,6 +1,7 @@
 <application>
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="20" />
+    <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="16" />
     <option name="REMEMBER_SIZE_FOR_EACH_TOOL_WINDOW_NEW_UI" value="true" />

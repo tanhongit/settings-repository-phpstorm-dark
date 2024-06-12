@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping ext="plantuml" type="PlantUML file" />
+      <mapping pattern="td" type="Shell Script" />
     </extensionMap>
   </component>
 </application>

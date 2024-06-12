@@ -1676,7 +1676,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="XML_TAG_NAME" baseAttributes="" />
+    <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.KEYWORD" baseAttributes="" />
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
     <option name="YAML_SCALAR_LIST">

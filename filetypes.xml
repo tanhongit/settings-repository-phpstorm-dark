@@ -2,10 +2,9 @@
   <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping ext="kibana" type="Dockerfile" />
-      <mapping ext="conf" type="Nginx Configuration Pro" />
-      <removed_mapping ext="conf" type="SmartyConfig" />
       <mapping ext="plist" type="XPath" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
       <mapping ext="plantuml" type="PlantUML file" />

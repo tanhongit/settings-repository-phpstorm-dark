@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
-      <mapping pattern="td" type="BashSupport Pro Shell Script" />
       <mapping ext="kibana" type="Dockerfile" />
       <mapping ext="plist" type="XPath" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />

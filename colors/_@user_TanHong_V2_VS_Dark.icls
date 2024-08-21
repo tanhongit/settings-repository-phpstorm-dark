@@ -559,7 +559,7 @@
         <option name="FOREGROUND" value="ca896e" />
       </value>
     </option>
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="fcfcfc" />

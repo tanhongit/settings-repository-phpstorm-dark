@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping ext="kibana" type="Dockerfile" />
-      <mapping pattern="td" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="plist" type="XPath" />

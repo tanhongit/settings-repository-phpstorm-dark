@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
-      <mapping pattern="td" type="BashSupport Pro Zsh" />
       <mapping ext="kibana" type="Dockerfile" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />

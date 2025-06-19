@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="103.188.167.176" id="b452f7d8-0962-4af5-b3b9-65f8c5e6301c" keyPath="$USER_HOME$/.ssh/cslant_root_server.pub" port="27030" nameFormat="DESCRIPTIVE" username="flashvps" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="103.188.167.176" id="e2b59a2e-58cb-4c4c-8670-d972e4c5b40e" port="27030" nameFormat="DESCRIPTIVE" username="flashvps" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>

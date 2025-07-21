@@ -1,5 +1,6 @@
 <application>
   <component name="github-copilot">
+    <option name="screenReaderEnabled" value="true" />
     <option name="signinNotificationShown" value="true" />
     <languageAllowList>
       <map>
@@ -7,5 +8,6 @@
       </map>
     </languageAllowList>
     <option name="showIdeCompletions" value="true" />
+    <option name="enableScreenReader" value="true" />
   </component>
 </application>

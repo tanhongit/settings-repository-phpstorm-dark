@@ -1,0 +1,220 @@
+<application>
+  <component name="CIAidCacheService">
+    <option name="filePathToCache">
+      <map>
+        <entry key="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Auto-DevOps.gitlab-ci.yml">
+          <value>
+            <CIAidGitLabCacheMetadata>
+              <option name="metaData">
+                <map>
+                  <entry key="expiryTime" value="1753770774782" />
+                  <entry key="path" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Auto-DevOps.gitlab-ci.yml" />
+                </map>
+              </option>
+            </CIAidGitLabCacheMetadata>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Browser-Performance-Testing.gitlab-ci.yml">
+          <value>
+            <CIAidGitLabCacheMetadata>
+              <option name="metaData">
+                <map>
+                  <entry key="expiryTime" value="1753770775744" />
+                  <entry key="path" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Browser-Performance-Testing.gitlab-ci.yml" />
+                </map>
+              </option>
+            </CIAidGitLabCacheMetadata>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Build.gitlab-ci.yml">
+          <value>
+            <CIAidGitLabCacheMetadata>
+              <option name="metaData">
+                <map>
+                  <entry key="expiryTime" value="1753770775702" />
+                  <entry key="path" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Build.gitlab-ci.yml" />
+                </map>
+              </option>
+            </CIAidGitLabCacheMetadata>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Code-Intelligence.gitlab-ci.yml">
+          <value>
+            <CIAidGitLabCacheMetadata>
+              <option name="metaData">
+                <map>
+                  <entry key="expiryTime" value="1753770776031" />
+                  <entry key="path" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Code-Intelligence.gitlab-ci.yml" />
+                </map>
+              </option>
+            </CIAidGitLabCacheMetadata>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Code-Quality.gitlab-ci.yml">
+          <value>
+            <CIAidGitLabCacheMetadata>
+              <option name="metaData">
+                <map>
+                  <entry key="expiryTime" value="1753770775742" />
+                  <entry key="path" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Code-Quality.gitlab-ci.yml" />
+                </map>
+              </option>
+            </CIAidGitLabCacheMetadata>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Container-Scanning.gitlab-ci.yml">
+          <value>
+            <CIAidGitLabCacheMetadata>
+              <option name="metaData">
+                <map>
+                  <entry key="expiryTime" value="1753770775920" />
+                  <entry key="path" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Container-Scanning.gitlab-ci.yml" />
+                </map>
+              </option>
+            </CIAidGitLabCacheMetadata>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/DAST-Default-Branch-Deploy.gitlab-ci.yml">
+          <value>
+            <CIAidGitLabCacheMetadata>
+              <option name="metaData">
+                <map>
+                  <entry key="expiryTime" value="1753770775988" />
+                  <entry key="path" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/DAST-Default-Branch-Deploy.gitlab-ci.yml" />
+                </map>
+              </option>
+            </CIAidGitLabCacheMetadata>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Dependency-Scanning.gitlab-ci.yml">
+          <value>
+            <CIAidGitLabCacheMetadata>
+              <option name="metaData">
+                <map>
+                  <entry key="expiryTime" value="1753770775721" />
+                  <entry key="path" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Dependency-Scanning.gitlab-ci.yml" />
+                </map>
+              </option>
+            </CIAidGitLabCacheMetadata>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Deploy.gitlab-ci.yml">
+          <value>
+            <CIAidGitLabCacheMetadata>
+              <option name="metaData">
+                <map>
+                  <entry key="expiryTime" value="1753770775719" />
+                  <entry key="path" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Deploy.gitlab-ci.yml" />
+                </map>
+              </option>
+            </CIAidGitLabCacheMetadata>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Deploy/EC2.gitlab-ci.yml">
+          <value>
+            <CIAidGitLabCacheMetadata>
+              <option name="metaData">
+                <map>
+                  <entry key="expiryTime" value="1753770775926" />
+                  <entry key="path" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Deploy/EC2.gitlab-ci.yml" />
+                </map>
+              </option>
+            </CIAidGitLabCacheMetadata>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Deploy/ECS.gitlab-ci.yml">
+          <value>
+            <CIAidGitLabCacheMetadata>
+              <option name="metaData">
+                <map>
+                  <entry key="expiryTime" value="1753770775923" />
+                  <entry key="path" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Deploy/ECS.gitlab-ci.yml" />
+                </map>
+              </option>
+            </CIAidGitLabCacheMetadata>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Helm-2to3.gitlab-ci.yml">
+          <value>
+            <CIAidGitLabCacheMetadata>
+              <option name="metaData">
+                <map>
+                  <entry key="expiryTime" value="1753770775886" />
+                  <entry key="path" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Helm-2to3.gitlab-ci.yml" />
+                </map>
+              </option>
+            </CIAidGitLabCacheMetadata>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/SAST.gitlab-ci.yml">
+          <value>
+            <CIAidGitLabCacheMetadata>
+              <option name="metaData">
+                <map>
+                  <entry key="expiryTime" value="1753770775673" />
+                  <entry key="path" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/SAST.gitlab-ci.yml" />
+                </map>
+              </option>
+            </CIAidGitLabCacheMetadata>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Secret-Detection.gitlab-ci.yml">
+          <value>
+            <CIAidGitLabCacheMetadata>
+              <option name="metaData">
+                <map>
+                  <entry key="expiryTime" value="1753770775687" />
+                  <entry key="path" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Secret-Detection.gitlab-ci.yml" />
+                </map>
+              </option>
+            </CIAidGitLabCacheMetadata>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Test.gitlab-ci.yml">
+          <value>
+            <CIAidGitLabCacheMetadata>
+              <option name="metaData">
+                <map>
+                  <entry key="expiryTime" value="1753770776195" />
+                  <entry key="path" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Test.gitlab-ci.yml" />
+                </map>
+              </option>
+            </CIAidGitLabCacheMetadata>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Security/DAST.gitlab-ci.yml">
+          <value>
+            <CIAidGitLabCacheMetadata>
+              <option name="metaData">
+                <map>
+                  <entry key="expiryTime" value="1753770775681" />
+                  <entry key="path" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Security/DAST.gitlab-ci.yml" />
+                </map>
+              </option>
+            </CIAidGitLabCacheMetadata>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="remoteIncludeIdentifierToLocalPath">
+      <map>
+        <entry key="lib/gitlab/ci/templates/Auto-DevOps.gitlab-ci.yml" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Auto-DevOps.gitlab-ci.yml" />
+        <entry key="lib/gitlab/ci/templates/Jobs/Browser-Performance-Testing.gitlab-ci.yml" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Browser-Performance-Testing.gitlab-ci.yml" />
+        <entry key="lib/gitlab/ci/templates/Jobs/Build.gitlab-ci.yml" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Build.gitlab-ci.yml" />
+        <entry key="lib/gitlab/ci/templates/Jobs/Code-Intelligence.gitlab-ci.yml" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Code-Intelligence.gitlab-ci.yml" />
+        <entry key="lib/gitlab/ci/templates/Jobs/Code-Quality.gitlab-ci.yml" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Code-Quality.gitlab-ci.yml" />
+        <entry key="lib/gitlab/ci/templates/Jobs/Container-Scanning.gitlab-ci.yml" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Container-Scanning.gitlab-ci.yml" />
+        <entry key="lib/gitlab/ci/templates/Jobs/DAST-Default-Branch-Deploy.gitlab-ci.yml" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/DAST-Default-Branch-Deploy.gitlab-ci.yml" />
+        <entry key="lib/gitlab/ci/templates/Jobs/Dependency-Scanning.gitlab-ci.yml" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Dependency-Scanning.gitlab-ci.yml" />
+        <entry key="lib/gitlab/ci/templates/Jobs/Deploy.gitlab-ci.yml" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Deploy.gitlab-ci.yml" />
+        <entry key="lib/gitlab/ci/templates/Jobs/Deploy/EC2.gitlab-ci.yml" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Deploy/EC2.gitlab-ci.yml" />
+        <entry key="lib/gitlab/ci/templates/Jobs/Deploy/ECS.gitlab-ci.yml" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Deploy/ECS.gitlab-ci.yml" />
+        <entry key="lib/gitlab/ci/templates/Jobs/Helm-2to3.gitlab-ci.yml" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Helm-2to3.gitlab-ci.yml" />
+        <entry key="lib/gitlab/ci/templates/Jobs/SAST.gitlab-ci.yml" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/SAST.gitlab-ci.yml" />
+        <entry key="lib/gitlab/ci/templates/Jobs/Secret-Detection.gitlab-ci.yml" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Secret-Detection.gitlab-ci.yml" />
+        <entry key="lib/gitlab/ci/templates/Jobs/Test.gitlab-ci.yml" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Jobs/Test.gitlab-ci.yml" />
+        <entry key="lib/gitlab/ci/templates/Security/DAST.gitlab-ci.yml" value="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2025.1/gitlab-ci-aid-cache/templates/lib/gitlab/ci/templates/Security/DAST.gitlab-ci.yml" />
+      </map>
+    </option>
+  </component>
+</application>

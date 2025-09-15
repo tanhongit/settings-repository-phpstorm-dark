@@ -1,0 +1,14 @@
+<keymap version="1" name="macOS tanhongit" parent="Mac OS X 10.5+">
+  <action id="ActivateDockerToolWindow">
+    <keyboard-shortcut first-keystroke="meta alt 8" />
+  </action>
+  <action id="ActivateMergeRequestsToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
+  <action id="ActivatePullRequestsToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 9" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 7" />
+  </action>
+</keymap>

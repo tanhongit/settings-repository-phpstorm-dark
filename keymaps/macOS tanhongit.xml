@@ -11,6 +11,9 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="shift meta 7" />
   </action>
+  <action id="MergeAllWindowsAction">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
+  </action>
   <action id="Terminal.MoveToEditor">
     <keyboard-shortcut first-keystroke="shift ctrl meta slash" />
   </action>

@@ -19,7 +19,6 @@
         <entry key="AugmentStatusBarWidget" value="false" />
         <entry key="JSONSchemaSelector" value="false" />
         <entry key="Memory" value="true" />
-        <entry key="WindsurfWidget" value="false" />
         <entry key="git" value="true" />
         <entry key="github.copilot.statusBarWidgetFactory" value="false" />
         <entry key="php.debug.status.widget" value="false" />

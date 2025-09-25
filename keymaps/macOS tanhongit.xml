@@ -17,6 +17,9 @@
   <action id="CopyReferencePopupGroup">
     <keyboard-shortcut first-keystroke="shift ctrl meta c" />
   </action>
+  <action id="Log.KeymapGroup">
+    <keyboard-shortcut first-keystroke="ctrl alt 9" />
+  </action>
   <action id="MergeAllWindowsAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
   </action>
@@ -51,5 +54,8 @@
   </action>
   <action id="Terminal.SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl meta right" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="alt 9" />
   </action>
 </keymap>

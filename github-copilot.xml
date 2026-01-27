@@ -1,6 +1,14 @@
 <application>
   <component name="github-copilot">
+    <option name="screenReaderEnabled" value="true" />
     <option name="signinNotificationShown" value="true" />
+    <languageAllowList>
+      <map>
+        <entry key="*" value="true" />
+      </map>
+    </languageAllowList>
+    <option name="showIdeCompletions" value="true" />
+    <option name="enableScreenReader" value="true" />
     <option name="terminalRulesVersion" value="1" />
   </component>
 </application>

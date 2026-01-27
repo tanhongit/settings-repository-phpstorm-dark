@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Dependencies from package.json" displayType="NONE" />
+    <notification groupId="GitHub Copilot" displayType="NONE" />
+    <notification groupId="PHP External Quality Tools" displayType="NONE" />
+    <notification groupId="Vcs Notifications" displayType="NONE" />
+  </component>
+</application>

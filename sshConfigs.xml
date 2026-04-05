@@ -3,7 +3,7 @@
     <configs>
       <sshConfig authType="PASSWORD" host="103.188.167.176" id="b452f7d8-0962-4af5-b3b9-65f8c5e6301c" keyPath="$USER_HOME$/.ssh/cslant_root_server.pub" port="27030" nameFormat="DESCRIPTIVE" username="flashvps" useOpenSSHConfig="true" />
       <sshConfig authType="OPEN_SSH" host="103.188.167.176" id="e2b59a2e-58cb-4c4c-8670-d972e4c5b40e" port="27030" nameFormat="DESCRIPTIVE" username="flashvps" useOpenSSHConfig="true" />
-      <sshConfig host="103.75.180.81" id="517d89c4-926c-46fe-ace8-521db236602f" keyPath="$USER_HOME$/.ssh/vws" port="16473" nameFormat="DESCRIPTIVE" username="tannp" useOpenSSHConfig="true" />
+      <sshConfig host="103.75.180.81" id="517d89c4-926c-46fe-ace8-521db236602f" keyPath="$USER_HOME$/.ssh/vws" port="16473" nameFormat="DESCRIPTIVE" username="cslant" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>

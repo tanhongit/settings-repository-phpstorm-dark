@@ -23,6 +23,7 @@ You can change color correction, and interface similar to the Dark theme in PhpS
 - https://plugins.jetbrains.com/plugin/7499-gittoolbox
 - https://plugins.jetbrains.com/plugin/13441-laravel-idea
 - https://plugins.jetbrains.com/plugin/14957-laravel-tinker
+- https://plugins.jetbrains.com/plugin/16309-laravel-query
 - https://plugins.jetbrains.com/plugin/7017-plantuml-integration
 
 ### Enable New UI

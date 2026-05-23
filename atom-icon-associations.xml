@@ -257,6 +257,43 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^Caddyfile$" />
+            <option name="pattern" value="^Caddyfile$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Caddy" />
+            <option name="icon" value="/icons/files/caddy.svg" />
+            <option name="iconColor" value="029a0b" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.meta(data)?$" />
+            <option name="pattern" value=".*\.meta(data)?$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Metadata" />
+            <option name="icon" value="/icons/files/metadata.svg" />
+            <option name="iconColor" value="FFC61B" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*(\.nginx|nginx\.conf)$" />
+            <option name="pattern" value=".*(\.nginx|nginx\.conf)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="nginx" />
+            <option name="icon" value="/icons/files/nginx.svg" />
+            <option name="priority" value="10" />
+            <option name="iconColor" value="6BAD20" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
@@ -600,6 +637,32 @@
             <option name="iconColor" />
             <option name="folderColor" value="1E88E5" />
             <option name="folderIconColor" value="90CAF9" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(clients?|frontend|pwa|spa)$" />
+            <option name="pattern" value="^[\._]?(clients?|frontend|pwa|spa)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Client" />
+            <option name="icon" value="/client.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="039BE5" />
+            <option name="folderIconColor" value="b3e5fc" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(sql|mysql|pgsql|maria(db)?)$" />
+            <option name="pattern" value="^[\._]?(sql|mysql|pgsql|maria(db)?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="SQL" />
+            <option name="icon" value="/sql.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="0288D1" />
+            <option name="folderIconColor" value="b2dfdb" />
             <option name="iconPack" />
           </RegexAssociation>
         </option>

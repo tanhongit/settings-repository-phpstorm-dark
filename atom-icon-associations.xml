@@ -294,6 +294,54 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^claude\.(md|txt|clw|clm)$" />
+            <option name="pattern" value="^claude\.(md|txt|clw|clm)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Claude" />
+            <option name="icon" value="/icons/files/claude.svg" />
+            <option name="iconColor" value="D97757" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="config\.toml$" />
+            <option name="pattern" value="config\.toml$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Hugo" />
+            <option name="icon" value="/icons/files/hugo.svg" />
+            <option name="iconColor" value="fe4088" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="mcp\.json$" />
+            <option name="pattern" value="mcp\.json$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="MCP" />
+            <option name="icon" value="/icons/files/mcp.svg" />
+            <option name="iconColor" value="f9a825" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^skills?\.md$" />
+            <option name="pattern" value="^skills?\.md$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Skill" />
+            <option name="icon" value="/icons/files/skill.svg" />
+            <option name="iconColor" value="FFB74D" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
@@ -663,6 +711,71 @@
             <option name="iconColor" />
             <option name="folderColor" value="0288D1" />
             <option name="folderIconColor" value="b2dfdb" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(robots?|bots?|agents?)$" />
+            <option name="pattern" value="^[\._]?(robots?|bots?|agents?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Bot" />
+            <option name="icon" value="/bot.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="ff5252" />
+            <option name="folderIconColor" value="ffcdd2" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?cursor?$" />
+            <option name="pattern" value="^[\._]?cursor?$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Cursor" />
+            <option name="icon" value="/cursor.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="424242" />
+            <option name="folderIconColor" value="9e9e9e" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?mcp$" />
+            <option name="pattern" value="^[\._]?mcp$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="MCP" />
+            <option name="icon" value="/mcp.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="546e7a" />
+            <option name="folderIconColor" value="F5F5F5" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?private$" />
+            <option name="pattern" value="^[\._]?private$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Private" />
+            <option name="icon" value="/private.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="ff5252" />
+            <option name="folderIconColor" value="ffcdd2" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(skills?|instructions?)$" />
+            <option name="pattern" value="^[\._]?(skills?|instructions?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Skills" />
+            <option name="icon" value="/skill.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="616161" />
+            <option name="folderIconColor" value="FFA726" />
             <option name="iconPack" />
           </RegexAssociation>
         </option>

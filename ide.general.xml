@@ -12,5 +12,6 @@
     <entry key="ide.text.fractional.metrics" value="[Auto|Disabled|Enabled*]" source="SYSTEM" />
     <entry key="editor.text.fractional.metrics" value="[Auto|Disabled|Enabled*]" source="SYSTEM" />
     <entry key="switched.from.classic.to.islands" value="false" source="SYSTEM" />
+    <entry key="editor.ux.survey.enabled" value="false" source="MANAGER" />
   </component>
 </application>

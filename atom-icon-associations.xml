@@ -778,6 +778,32 @@
             <option name="folderIconColor" value="FFA726" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(domains?)$" />
+            <option name="pattern" value="^[\._]?(domains?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Domain" />
+            <option name="icon" value="/domain.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="78909C" />
+            <option name="folderIconColor" value="CFD8DC" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(excludes?|external|outputs?|exports?|exported)$" />
+            <option name="pattern" value="^[\._]?(excludes?|external|outputs?|exports?|exported)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Exclude" />
+            <option name="icon" value="/exclude.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="ff8a65" />
+            <option name="folderIconColor" value="fbe9e7" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>

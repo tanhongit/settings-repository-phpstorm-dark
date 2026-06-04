@@ -30,5 +30,6 @@
         <option name="pattern" value="**/github-copilot/**/*" />
       </FileSafetyRule>
     </editAutoApprove>
+    <option name="legacyXdgConfigMigrated" value="true" />
   </component>
 </application>

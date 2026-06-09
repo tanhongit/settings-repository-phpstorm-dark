@@ -788,6 +788,19 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(3fr|ari|arw|bay|cr[2w]|cap|dcs|dng|drf|eip|erf|fff|iiq|k25|kdc|mdc|mef|mos|mrw|nef|nrw|obm|orf|pef|ptx|pxn|r3d|raf|raw|rw[2z]|sr[2fw]|tif|x3f)$" />
+            <option name="pattern" value=".*\.(3fr|ari|arw|bay|cr[2w]|cap|dcs|dng|drf|eip|erf|fff|iiq|k25|kdc|mdc|mef|mos|mrw|nef|nrw|obm|orf|pef|ptx|pxn|r3d|raf|raw|rw[2z]|sr[2fw]|tif|x3f)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Images (4)" />
+            <option name="icon" value="/icons/files/image.svg" />
+            <option name="priority" value="10" />
+            <option name="iconColor" value="92AC5A" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>

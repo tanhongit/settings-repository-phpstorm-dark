@@ -801,6 +801,31 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(menu|desktop|fd\.o)$" />
+            <option name="pattern" value=".*\.(menu|desktop|fd\.o)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="FreeDesktop" />
+            <option name="icon" value="/icons/files/freedesktop.svg" />
+            <option name="iconColor" value="3b80ae" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(mpp|ogg|oga|opus|ra|rm|wav|wma|snd|mid|cda)$" />
+            <option name="pattern" value=".*\.(mpp|ogg|oga|opus|ra|rm|wav|wma|snd|mid|cda)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Audio (2)" />
+            <option name="icon" value="/icons/files/audio2.svg" />
+            <option name="priority" value="10" />
+            <option name="iconColor" value="D52A29" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>

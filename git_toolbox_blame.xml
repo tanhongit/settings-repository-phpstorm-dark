@@ -1,0 +1,13 @@
+<application>
+  <component name="GitToolBoxBlameAppConfig">
+    <option name="blameInlayConfig">
+      <InlayBlameConfig>
+        <option name="respectSoftWraps" value="true" />
+      </InlayBlameConfig>
+    </option>
+    <option name="blameInlineAuthorNameType" value="FULL" />
+    <option name="blameInlineDateType" value="ABSOLUTE" />
+    <option name="blameStatusAuthorNameType" value="FULL" />
+    <option name="showBlameWidget" value="false" />
+  </component>
+</application>

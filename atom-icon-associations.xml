@@ -1,0 +1,158 @@
+<application>
+  <component name="Atom Icon Selections Config">
+    <option name="selectedFileAssociations">
+      <SelectedAssociations>
+        <option name="associationsList">
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(menu|desktop|fd\.o)$" />
+            <option name="pattern" value=".*\.(menu|desktop|fd\.o)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="FreeDesktop" />
+            <option name="icon" value="/icons/files/freedesktop.svg" />
+            <option name="iconColor" value="3b80ae" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.mos?$" />
+            <option name="pattern" value=".*\.mos?$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Modelica" />
+            <option name="icon" value="/icons/files/modelica.svg" />
+            <option name="iconColor" value="c2132e" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(mpp|ogg|oga|opus|ra|rm|wav|wma|snd|mid|cda)$" />
+            <option name="pattern" value=".*\.(mpp|ogg|oga|opus|ra|rm|wav|wma|snd|mid|cda)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Audio (2)" />
+            <option name="icon" value="/icons/files/audio2.svg" />
+            <option name="priority" value="10" />
+            <option name="iconColor" value="D52A29" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+        </option>
+      </SelectedAssociations>
+    </option>
+    <option name="selectedFolderAssociations">
+      <SelectedAssociations>
+        <option name="iconType" value="FOLDER" />
+        <option name="associationsList">
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(archives?|jars?|zips?|backups?)" />
+            <option name="pattern" value="^[\._]?(archives?|jars?|zips?|backups?)" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Archives" />
+            <option name="icon" value="/archive.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="795548" />
+            <option name="folderIconColor" value="D7CCC8" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(bin|core|support|io|binary)$" />
+            <option name="pattern" value="^[\._]?(bin|core|support|io|binary)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Core" />
+            <option name="icon" value="/core.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="4DB6AC" />
+            <option name="folderIconColor" value="E0F2F1" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(javascripts?|js)$" />
+            <option name="pattern" value="^[\._]?(javascripts?|js)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="JavaScript" />
+            <option name="icon" value="/js.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="F9A825" />
+            <option name="folderIconColor" value="FFFFFF" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(linux|nux|unix)$" />
+            <option name="pattern" value="^[\._]?(linux|nux|unix)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Linux" />
+            <option name="icon" value="/linux.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="546E7A" />
+            <option name="folderIconColor" value="BDBDBD" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(perl|pl)$" />
+            <option name="pattern" value="^[\._]?(perl|pl)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Perl" />
+            <option name="icon" value="/perl.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="00897b" />
+            <option name="folderIconColor" value="b2dfdb" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(php|phtml|phpmailer|phpcs)$" />
+            <option name="pattern" value="^[\._]?(php|phtml|phpmailer|phpcs)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="PHP" />
+            <option name="icon" value="/php.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="673AB7" />
+            <option name="folderIconColor" value="89AAFF" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?((mu-)?plugins?|extensions?|mods?)$" />
+            <option name="pattern" value="^[\._]?((mu-)?plugins?|extensions?|mods?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Plugins" />
+            <option name="icon" value="/plugin.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="00796B" />
+            <option name="folderIconColor" value="80CBC4" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(trash|bin|archived|deprecated|scrap)$" />
+            <option name="pattern" value="^[\._]?(trash|bin|archived|deprecated|scrap)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Trash" />
+            <option name="icon" value="/trash.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="F44336" />
+            <option name="folderIconColor" value="FFCDD2" />
+            <option name="iconPack" />
+          </RegexAssociation>
+        </option>
+      </SelectedAssociations>
+    </option>
+  </component>
+</application>

@@ -826,6 +826,31 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*/(mocks?|stubs?|spy|spies)/.*\.([cm]?jsx?|tsx?|dart|java|kt|rb|pl|py|json)$" />
+            <option name="pattern" value=".*/(mocks?|stubs?|spy|spies)/.*\.([cm]?jsx?|tsx?|dart|java|kt|rb|pl|py|json)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Spy/Mock/Stub Files" />
+            <option name="icon" value="/icons/files/mockfiles.svg" />
+            <option name="priority" value="50" />
+            <option name="iconColor" value="8d6e63" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="supabase\.([cm]?js|ts|py)$" />
+            <option name="pattern" value="supabase\.([cm]?js|ts|py)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Supabase" />
+            <option name="icon" value="/icons/files/supabase.svg" />
+            <option name="iconColor" value="3ECF8E" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>

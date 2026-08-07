@@ -851,6 +851,18 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^metro\.config\.([cm]?js|ts|json)$" />
+            <option name="pattern" value="^metro\.config\.([cm]?js|ts|json)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Metro" />
+            <option name="icon" value="/icons/files/metro.svg" />
+            <option name="iconColor" value="ef5350" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>

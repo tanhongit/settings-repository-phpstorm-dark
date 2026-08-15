@@ -16,7 +16,7 @@
     <option name="autoApproveUnmatchedTerminal" value="false" />
     <option name="useNestedAgentsMdFiles" value="true" />
     <option name="useNestedClaudeMdFiles" value="true" />
-    <option name="terminalRulesVersion" value="1" />
+    <option name="terminalRulesVersion" value="2" />
     <editAutoApprove>
       <FileSafetyRule>
         <option name="description" value="Github instructions files" />

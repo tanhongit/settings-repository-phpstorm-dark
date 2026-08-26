@@ -1884,6 +1884,19 @@
             <option name="folderIconColor" value="80CBC4" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(tech(nology|nologies)?)$" />
+            <option name="pattern" value="^[\._]?(tech(nology|nologies)?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Tech" />
+            <option name="icon" value="/tech.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="8a2be2" />
+            <option name="folderIconColor" value="c695f9" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>

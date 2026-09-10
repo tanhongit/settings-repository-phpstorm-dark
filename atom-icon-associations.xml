@@ -863,6 +863,78 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.[ais]$" />
+            <option name="pattern" value=".*\.[ais]$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Assembly Pure" />
+            <option name="icon" value="/icons/files/asmpure.svg" />
+            <option name="iconColor" value="c51666" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.pod(spec|file(\.lock)?)$" />
+            <option name="pattern" value=".*\.pod(spec|file(\.lock)?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="CocoaPods" />
+            <option name="icon" value="/icons/files/cocoapods.svg" />
+            <option name="iconColor" value="ee3322" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(mk|mak|make|mmk|mms|am|bb)$" />
+            <option name="pattern" value=".*\.(mk|mak|make|mmk|mms|am|bb)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Make" />
+            <option name="icon" value="/icons/files/make.svg" />
+            <option name="iconColor" value="E79627" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^(meson\.build|meson_options\.txt|meson\.options)$" />
+            <option name="pattern" value="^(meson\.build|meson_options\.txt|meson\.options)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Meson" />
+            <option name="icon" value="/icons/files/meson.svg" />
+            <option name="iconColor" value="9575CD" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.build$" />
+            <option name="pattern" value=".*\.build$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="NAnt" />
+            <option name="icon" value="/icons/files/nant.svg" />
+            <option name="iconColor" value="99cc00" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^snapcraft\.ya?ml$" />
+            <option name="pattern" value="^snapcraft\.ya?ml$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Snapcraft" />
+            <option name="icon" value="/icons/files/snapcraft.svg" />
+            <option name="iconColor" value="7EB99B" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
@@ -1895,6 +1967,19 @@
             <option name="iconColor" />
             <option name="folderColor" value="8a2be2" />
             <option name="folderIconColor" value="c695f9" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^\.expo(-shared)?$" />
+            <option name="pattern" value="^\.expo(-shared)?$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Expo" />
+            <option name="icon" value="/expo.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="01579b" />
+            <option name="folderIconColor" value="9FA8DA" />
             <option name="iconPack" />
           </RegexAssociation>
         </option>

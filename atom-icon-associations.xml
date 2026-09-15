@@ -935,6 +935,18 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^firebase\.json$" />
+            <option name="pattern" value="^firebase\.json$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Firebase" />
+            <option name="icon" value="/icons/files/firebase.svg" />
+            <option name="iconColor" value="fcca3f" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>

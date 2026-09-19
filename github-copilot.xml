@@ -12,7 +12,6 @@
     </languageAllowList>
     <option name="showIdeCompletions" value="true" />
     <option name="enableScreenReader" value="true" />
-    <option name="selectedCompletionModel" value="gpt-41-copilot" />
     <option name="autoApproveUnmatchedTerminal" value="false" />
     <option name="useNestedAgentsMdFiles" value="true" />
     <option name="useNestedClaudeMdFiles" value="true" />

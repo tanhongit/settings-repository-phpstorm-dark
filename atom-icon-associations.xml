@@ -863,6 +863,247 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.[ais]$" />
+            <option name="pattern" value=".*\.[ais]$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Assembly Pure" />
+            <option name="icon" value="/icons/files/asmpure.svg" />
+            <option name="iconColor" value="c51666" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.pod(spec|file(\.lock)?)$" />
+            <option name="pattern" value=".*\.pod(spec|file(\.lock)?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="CocoaPods" />
+            <option name="icon" value="/icons/files/cocoapods.svg" />
+            <option name="iconColor" value="ee3322" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(mk|mak|make|mmk|mms|am|bb)$" />
+            <option name="pattern" value=".*\.(mk|mak|make|mmk|mms|am|bb)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Make" />
+            <option name="icon" value="/icons/files/make.svg" />
+            <option name="iconColor" value="E79627" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^(meson\.build|meson_options\.txt|meson\.options)$" />
+            <option name="pattern" value="^(meson\.build|meson_options\.txt|meson\.options)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Meson" />
+            <option name="icon" value="/icons/files/meson.svg" />
+            <option name="iconColor" value="9575CD" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.build$" />
+            <option name="pattern" value=".*\.build$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="NAnt" />
+            <option name="icon" value="/icons/files/nant.svg" />
+            <option name="iconColor" value="99cc00" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^snapcraft\.ya?ml$" />
+            <option name="pattern" value="^snapcraft\.ya?ml$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Snapcraft" />
+            <option name="icon" value="/icons/files/snapcraft.svg" />
+            <option name="iconColor" value="7EB99B" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^firebase\.json$" />
+            <option name="pattern" value="^firebase\.json$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Firebase" />
+            <option name="icon" value="/icons/files/firebase.svg" />
+            <option name="iconColor" value="fcca3f" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(bison|yy?|yacc|ypp)$" />
+            <option name="pattern" value=".*\.(bison|yy?|yacc|ypp)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Bison" />
+            <option name="icon" value="/icons/files/bison.svg" />
+            <option name="iconColor" value="795548" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(swf|flash)$" />
+            <option name="pattern" value=".*\.(swf|flash)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Flash" />
+            <option name="icon" value="/icons/files/flash.svg" />
+            <option name="iconColor" value="d92f3c" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.?(gnu|gplv[23]|[AL]?GPL|GFDL)$" />
+            <option name="pattern" value=".*\.?(gnu|gplv[23]|[AL]?GPL|GFDL)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="GNU" />
+            <option name="icon" value="/icons/files/gnu.svg" />
+            <option name="iconColor" value="BF360C" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(ll|clang-format)$" />
+            <option name="pattern" value=".*\.(ll|clang-format)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="LLVM" />
+            <option name="icon" value="/icons/files/llvm.svg" />
+            <option name="iconColor" value="93012c" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(frag?|fp|fsh|fshader)$" />
+            <option name="pattern" value=".*\.(frag?|fp|fsh|fshader)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="OpenGL Fragment Shader" />
+            <option name="icon" value="/icons/files/shader.svg" />
+            <option name="iconColor" value="5586A4" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(pkl|pickle)$" />
+            <option name="pattern" value=".*\.(pkl|pickle)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Pickle" />
+            <option name="icon" value="/icons/files/pickle.svg" />
+            <option name="iconColor" value="58b980" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(ps|eps[fi]?|gsf|a[fm]m|bez)$" />
+            <option name="pattern" value=".*\.(ps|eps[fi]?|gsf|a[fm]m|bez)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="PostScript" />
+            <option name="icon" value="/icons/files/postscript.svg" />
+            <option name="iconColor" value="FFD54F" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^\.?pullapprove\.ya?ml$" />
+            <option name="pattern" value="^\.?pullapprove\.ya?ml$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="PullApprove" />
+            <option name="icon" value="/icons/files/pullapprove.svg" />
+            <option name="iconColor" value="0f9f6e" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^require([-.]min|dev)?\.[cm]?[jt]s$" />
+            <option name="pattern" value="^require([-.]min|dev)?\.[cm]?[jt]s$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="RequireJS" />
+            <option name="icon" value="/icons/files/requirejs.svg" />
+            <option name="iconColor" value="39a1e7" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.semgrep(ignore)?$" />
+            <option name="pattern" value=".*\.semgrep(ignore)?$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Semgrep" />
+            <option name="icon" value="/icons/files/semgrep.svg" />
+            <option name="iconColor" value="4CAF50" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(sml|sig|ml(b|ton)|fun|cm|grm)$" />
+            <option name="pattern" value=".*\.(sml|sig|ml(b|ton)|fun|cm|grm)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="SML" />
+            <option name="icon" value="/icons/files/sml.svg" />
+            <option name="iconColor" value="f44336" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(pid|tld|sha(256|sum))$" />
+            <option name="pattern" value=".*\.(pid|tld|sha(256|sum))$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="PID/TLD/Sha" />
+            <option name="icon" value="/icons/files/pid.svg" />
+            <option name="iconColor" value="80CBC4" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(axf|elf|la|objdump|bsdiff|bin|dat|pak|db-journal)$" />
+            <option name="pattern" value=".*\.(axf|elf|la|objdump|bsdiff|bin|dat|pak|db-journal)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Binaries" />
+            <option name="icon" value="/icons/files/binary.svg" />
+            <option name="priority" value="1" />
+            <option name="iconColor" value="7C95A1" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
@@ -1895,6 +2136,71 @@
             <option name="iconColor" />
             <option name="folderColor" value="8a2be2" />
             <option name="folderIconColor" value="c695f9" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^\.expo(-shared)?$" />
+            <option name="pattern" value="^\.expo(-shared)?$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Expo" />
+            <option name="icon" value="/expo.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="01579b" />
+            <option name="folderIconColor" value="9FA8DA" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(chef|recipes?)$" />
+            <option name="pattern" value="^[\._]?(chef|recipes?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Chef" />
+            <option name="icon" value="/chef.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="EA7130" />
+            <option name="folderIconColor" value="FFCCBC" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(flow|defs?)$" />
+            <option name="pattern" value="^[\._]?(flow|defs?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Flow" />
+            <option name="icon" value="/flow.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="37474F" />
+            <option name="folderIconColor" value="fbc02d" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(injections?|di|injector)$" />
+            <option name="pattern" value="^[\._]?(injections?|di|injector)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Injection" />
+            <option name="icon" value="/injection.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="00BCD4" />
+            <option name="folderIconColor" value="087CFA" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(sync|synced)$" />
+            <option name="pattern" value="^[\._]?(sync|synced)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Sync" />
+            <option name="icon" value="/sync.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="0288d1" />
+            <option name="folderIconColor" value="b3e5fc" />
             <option name="iconPack" />
           </RegexAssociation>
         </option>

@@ -1104,6 +1104,18 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(pro|prolog|yap)$" />
+            <option name="pattern" value=".*\.(pro|prolog|yap)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Prolog" />
+            <option name="icon" value="/icons/files/prolog.svg" />
+            <option name="iconColor" value="f03e25" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
@@ -2201,6 +2213,19 @@
             <option name="iconColor" />
             <option name="folderColor" value="0288d1" />
             <option name="folderIconColor" value="b3e5fc" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(java|jdk)$" />
+            <option name="pattern" value="^[\._]?(java|jdk)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Java" />
+            <option name="icon" value="/java.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="AB47BC" />
+            <option name="folderIconColor" value="E1BEE7" />
             <option name="iconPack" />
           </RegexAssociation>
         </option>

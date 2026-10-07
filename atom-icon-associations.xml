@@ -1116,6 +1116,18 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(dot|jst)$" />
+            <option name="pattern" value=".*\.(dot|jst)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="DotJS" />
+            <option name="icon" value="/icons/files/dotjs.svg" />
+            <option name="iconColor" value="2196f3" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>

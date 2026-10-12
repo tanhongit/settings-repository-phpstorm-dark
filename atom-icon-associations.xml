@@ -1128,6 +1128,19 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^(roadmap|ROADMAP)(\.(md|txt|rst))?$" />
+            <option name="pattern" value="^(roadmap|ROADMAP)(\.(md|txt|rst))?$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Roadmap" />
+            <option name="icon" value="/icons/files/roadmap.svg" />
+            <option name="priority" value="1000" />
+            <option name="iconColor" value="FFB74D" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>

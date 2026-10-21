@@ -1141,6 +1141,42 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^\.coderabbit\.ya?ml$" />
+            <option name="pattern" value="^\.coderabbit\.ya?ml$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="CodeRabbit" />
+            <option name="icon" value="/icons/files/coderabbit.svg" />
+            <option name="iconColor" value="F4511E" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="(\.sentryclirc|sentry\.(.*)\.config\.[cm]?(js|ts))$" />
+            <option name="pattern" value="(\.sentryclirc|sentry\.(.*)\.config\.[cm]?(js|ts))$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Sentry" />
+            <option name="icon" value="/icons/files/sentry.svg" />
+            <option name="iconColor" value="F32C25" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^\.?(sonar-project|sonarcloud)\.(properties|ya?ml)$" />
+            <option name="pattern" value="^\.?(sonar-project|sonarcloud)\.(properties|ya?ml)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="SonarCloud" />
+            <option name="icon" value="/icons/files/sonarcloud.svg" />
+            <option name="iconColor" value="fd6a00" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
@@ -2251,6 +2287,19 @@
             <option name="iconColor" />
             <option name="folderColor" value="AB47BC" />
             <option name="folderIconColor" value="E1BEE7" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^\.devcontainer$" />
+            <option name="pattern" value="^\.devcontainer$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="DevContainer" />
+            <option name="icon" value="/devcontainer.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="ff7043" />
+            <option name="folderIconColor" value="ffccbc" />
             <option name="iconPack" />
           </RegexAssociation>
         </option>

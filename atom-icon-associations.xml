@@ -1177,6 +1177,42 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^(poetry\.lock|pyproject\.toml)$" />
+            <option name="pattern" value="^(poetry\.lock|pyproject\.toml)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Poetry" />
+            <option name="icon" value="/icons/files/poetry.svg" />
+            <option name="iconColor" value="1976D2" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(pypi|pytd|pytyped|py\.typed|typed)$" />
+            <option name="pattern" value=".*\.(pypi|pytd|pytyped|py\.typed|typed)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="PyTyped" />
+            <option name="icon" value="/icons/files/pytyped.svg" />
+            <option name="iconColor" value="467fbf" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.rss$" />
+            <option name="pattern" value=".*\.rss$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="RSS" />
+            <option name="icon" value="/icons/files/rss.svg" />
+            <option name="iconColor" value="f0a005" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>

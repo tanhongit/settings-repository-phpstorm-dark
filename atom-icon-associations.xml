@@ -1213,6 +1213,56 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*([bB]loc|[eE]vent|[sS]tate)\.dart$" />
+            <option name="pattern" value=".*([bB]loc|[eE]vent|[sS]tate)\.dart$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Bloc" />
+            <option name="icon" value="/icons/files/bloc.svg" />
+            <option name="iconColor" value="00D3B9" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*/(blocs?|events?|states?)/.*\.dart$" />
+            <option name="pattern" value=".*/(blocs?|events?|states?)/.*\.dart$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Bloc Files" />
+            <option name="icon" value="/icons/files/blocfiles.svg" />
+            <option name="priority" value="50" />
+            <option name="iconColor" value="00D3B9" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.nib$" />
+            <option name="pattern" value=".*\.nib$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Nib" />
+            <option name="icon" value="/icons/files/nib.svg" />
+            <option name="iconColor" value="AB7967" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.di?$" />
+            <option name="pattern" value=".*\.di?$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="DLang" />
+            <option name="icon" value="/icons/files/dlang.svg" />
+            <option name="priority" value="10" />
+            <option name="iconColor" value="D52A29" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
@@ -2336,6 +2386,32 @@
             <option name="iconColor" />
             <option name="folderColor" value="ff7043" />
             <option name="folderIconColor" value="ffccbc" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?dart(_tools?)?$" />
+            <option name="pattern" value="^[\._]?dart(_tools?)?$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Dart" />
+            <option name="icon" value="/dart.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="47C5FB" />
+            <option name="folderIconColor" value="#BBDEFB" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(shaders?|glsl|hlsl)$" />
+            <option name="pattern" value="^[\._]?(shaders?|glsl|hlsl)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Shader" />
+            <option name="icon" value="/shader.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="AB47BC" />
+            <option name="folderIconColor" value="E1BEE7" />
             <option name="iconPack" />
           </RegexAssociation>
         </option>
